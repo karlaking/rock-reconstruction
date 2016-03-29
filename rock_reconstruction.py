@@ -10,4 +10,7 @@
 
 # Write function to geo-reference images
   # put images into matrix based on x.y values
+  # Do not know how to use the z values yet
+
+# Render the files visually on a web browser
 
