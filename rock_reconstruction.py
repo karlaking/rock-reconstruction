@@ -19,6 +19,9 @@ class Image:
       self.pitch = pitch
       self.roll = roll
 
+if _name_ == "_main_":
+  image = Image._init_(self, 38.426165, 123.113115, 90.604094, 187.491139, ­0.312975, 2.836182)
+
 
 
 
